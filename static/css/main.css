@@ -60,14 +60,18 @@ body {
     background: #000 !important;
 }
 
-.overlay {
+#overlay {
     height: 100;
     width: 100;
     top: 0;
     left: 0;
     position: fixed;
-    background: white;
+    background: white !important;
     z-index: -1;
+}
+
+.product-page {
+    background: white !important;
 }
 /* -------------------------------- Media Queries */
 
