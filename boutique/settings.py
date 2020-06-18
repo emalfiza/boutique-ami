@@ -26,7 +26,7 @@ SECRET_KEY = ')*mvhr#g=6j4$#5ze5rsiyrr$clehc_@es@h1^%ac@v0dd4uu_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://boutique-ami.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['boutique-ami.herokuapp.com/', 'localhost']
 
 
 # Application definition
